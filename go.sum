@@ -1,0 +1,6 @@
+github.com/SiriDB/go-siridb-connector v1.0.14 h1:e6c2nmwQCBDSeXoeHUNIeSjyOTXculh7uzYZsDlHk+k=
+github.com/SiriDB/go-siridb-connector v1.0.14/go.mod h1:htsX/ffU3ZCTnyfInRW1xvumK7565QFuJ+unMAgkH9Y=
+github.com/kos-v/dsnparser v1.1.0 h1:3vctQ55GqpFfnXL8ME02U+lEpqz2XZhu9fyV4Aubjk0=
+github.com/kos-v/dsnparser v1.1.0/go.mod h1:hKgcsdjz6eSeu7lP7zfTtuYly0wQaEXlYwXaSr+QOig=
+github.com/transceptor-technology/go-qpack v0.0.0-20190116123619-49a14b216a45 h1:9e+eZxnc06hqLXJMI0cC3ssk/tQ924UMfqn67Bl1j2o=
+github.com/transceptor-technology/go-qpack v0.0.0-20190116123619-49a14b216a45/go.mod h1:7QhRKvAhSRfXDqhw+JG0vw3o7igpbPDGka/q1yQwo6o=
